@@ -1,0 +1,10 @@
+name: lr_shiny
+title:
+username:
+account: jsc228
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1085310
+bundleId: 2317496
+url: https://jsc228.shinyapps.io/lr_shiny/
+when: 1565758092.62905
